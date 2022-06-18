@@ -102,13 +102,13 @@ Some lexical structure rules in JavaScript is :
 </b></details>
 
 <details>
-<summary>What is Unicode?</summary><br><b>
-
-   Unicode is a international standard for character encoding. It assignes a unique code to every charcters known as code point.
+<summary>What is Unicode?</summary><br><b><b>
+Unicode is a international standard for character encoding. It assignes a unique code to every charcters known as code point.
 This helps to identify charcter more easily and with less chances of error
 
 Previously when UNICODE was not there, every language, machine or company uses there own encodings which results as conflicts between them.
 All these conflicts are solved by UNICODE as it gives a character encoding which is accepted and used by all as common entity.
+
 
 </b></details>
 
@@ -198,3 +198,4 @@ All these conflicts are solved by UNICODE as it gives a character encoding which
 
 
 </b></details>
+
