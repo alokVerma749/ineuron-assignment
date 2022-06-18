@@ -119,7 +119,47 @@ All these conflicts are solved by UNICODE as it gives a character encoding which
 ```bash
         let a = 10;
         a += 5;
-        console.log(a)
+        console.log("Value is: " + a);
+```
+
+```sh
+ Value is: 15
+```
+
+2. -=
+
+```bash
+        let a = 10;
+        a -= 5;
+        console.log("Value is: " + a);
+```
+
+```sh
+ Value is: 5
+```
+
+3. \*=
+
+```bash
+        let a = 10;
+        a *= 5;
+        console.log("Value is: " + a);
+```
+
+```sh
+ Value is: 50
+```
+
+4. \*=
+
+```bash
+        let a = 10;
+        a /= 5;
+        console.log("Value is: " + a);
+```
+
+```sh
+ Value is: 2
 ```
 
 </b></details>
