@@ -114,6 +114,14 @@ All these conflicts are solved by UNICODE as it gives a character encoding which
 <details>
 <summary>What are shorthand operators, explain with a suitable example?</summary><br><b>
 
+1. +=
+
+```bash
+        let a = 10;
+        a += 5;
+        console.log(a)
+```
+
 </b></details>
 
 <details>
