@@ -59,14 +59,14 @@ In JS for every variable, function and object there exists a scope linked with i
 > </b></details>
 
 <details>
-  <br>
+
 <summary>JavaScript is asynchronous or synchronous.</summary><br><b>
 
 JavaScript shows both synchronous and asynchronous behaviour.
 
 If less time consuming task is executing then the execution will be done in synchronous manner, but if a more time consuming task kicks in the stack then JS starts showing its asynchronous behaviour.
 
-Most asynchronous JavaScript operations has two primary triggers i.e. WebAPI's`and`promises`.
+Most asynchronous JavaScript operations has two primary triggers i.e. `WebAPI's` and `promises`.
 
 </b></details>
 
