@@ -1,0 +1,18 @@
+Problem - 4: Explain Scope in JavaScript ?
+
+    Solution : Scope can be considered as the boundary till which something will be applicable or have its existance.
+
+In JS for every variable, function and object there exists a scope linked with it, apart from where they are not reachable.
+
+    e.g: -
+
+        let a = "Can be reachable throughout whole code";
+
+{
+    let b = "Can be reachable only inside this scope"
+}
+
+NOTE: If instead of using "let" we use "var" keyword for declaring the varibles.Then the varible declared using "var" keyword can be accessed everywhere, this is because the scope of the variables declared using "var" have global scope.While "let" allows you to declare variables that are limited to the scope of a block statement.
+
+
+

@@ -1,0 +1,3 @@
+Problem-5: JavaScript is asynchronous or synchronous.
+
+Solution: 

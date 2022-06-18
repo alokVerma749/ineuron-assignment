@@ -1,0 +1,5 @@
+problem-2: What is the difference between client-side and server-side?
+
+Solution: Whatever this is happening on the users computer(i.e. HTML and CSS displayed on the screen, user interacting with the UI) it is called client-side.
+
+And whatever is happening on the backend(on the servers like: Handling requests and sending responses, managing database, etc) is callend backend.

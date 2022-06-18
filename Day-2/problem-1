@@ -1,0 +1,15 @@
+Problem-1: What is lexical structure?
+
+Solution: lexical structure is the the bascic syntax for writing any programming language. It is also considered as the lowest level syntactical structure which needs to be follwed.
+Some lexical structure rules in JavaScript is :
+
+1.  JS is written in UNICODE(it is an iternational standard for character encoding).
+2.  JS is a case sensitive language.
+3.  Using semicolons are optional in JS, as it adds semicolons behind the scenes by ("Automatic Semicolon Insertion") technique
+    This "Automatic Semicolon Insertion" follows 7 rules to insert semicolons while parsing the code
+4.  There are two types of comments present in JS
+    (i) Single Line Comment(// THis is a comment)
+    (ii) Multi Line Comment(/_ This is a comment _/)
+5.  Whitespaces,Line breaks and Comments are ignored whit executing
+6.  A variable name can only be start with a letter, the dollar sign ($) or an underscore \_.
+7.  There are reserved keywords and future reserverd keywords whih cannot be used as a variable name.
