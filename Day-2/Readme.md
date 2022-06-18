@@ -138,7 +138,7 @@ All these conflicts are solved by UNICODE as it gives a character encoding which
  Value is: 5
 ```
 
-3. \*=
+3. *=
 
 ```bash
         let a = 10;
@@ -150,7 +150,7 @@ All these conflicts are solved by UNICODE as it gives a character encoding which
  Value is: 50
 ```
 
-4. \*=
+4. /=
 
 ```bash
         let a = 10;
