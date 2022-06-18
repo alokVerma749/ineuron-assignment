@@ -2,31 +2,29 @@
 <h1 align="center">JavaScript Marathon Assignment</h1>
 <br>
 
-> ### Note: This Readme is mintained by me just to get a better way to present the assignment solution. Please have a look 
+> ### Note: This Readme is mintained by me just to get a better way to present the assignment solution. Please have a look
 
-<br> 
+<br>
 
 # Day-2
-
 
 <details>
 <summary>What is lexical structure?</summary><br><b>
 
-  Lexical structure is the the bascic syntax for writing any programming language. It is also considered as the lowest level syntactical structure which needs to be follwed.
+Lexical structure is the the bascic syntax for writing any programming language. It is also considered as the lowest level syntactical structure which needs to be follwed.
 Some lexical structure rules in JavaScript is :
 
 1.  JS is written in UNICODE(it is an iternational standard for character encoding).
 2.  JS is a case sensitive language.
 3.  Using semicolons are optional in JS, as it adds semicolons behind the scenes by `Automatic Semicolon Insertion` technique
-  This `Automatic Semicolon Insertion` follows <a href= "https://www.freecodecamp.org/news/lets-talk-about-semicolons-in-javascript-f1fe08ab4e53/">7 Rules</a>
-  to insert semicolons while parsing the code.
+    This `Automatic Semicolon Insertion` follows <a href= "https://www.freecodecamp.org/news/lets-talk-about-semicolons-in-javascript-f1fe08ab4e53/">7 Rules</a>
+    to insert semicolons while parsing the code.
 4.  There are two types of comments present in JS:
     - Single Line Comment(// THis is a comment)
-    - Multi Line Comment(/* This is a comment */)
+    - Multi Line Comment(/_ This is a comment _/)
 5.  Whitespaces,Line breaks and Comments are ignored whit executing.
 6.  A variable name can only be start with a letter, the dollar sign ($) or an underscore \_.
 7.  There are reserved keywords and future reserverd keywords whih cannot be used as a variable name.
-
 
 </b></details>
 
@@ -37,7 +35,6 @@ This helps to identify charcter more easily and with less chances of error
 
 Previously when UNICODE was not there, every language, machine or company uses there own encodings which results as conflicts between them.
 All these conflicts are solved by UNICODE as it gives a character encoding which is accepted and used by all as common entity.
-
 
 </b></details>
 
@@ -100,10 +97,9 @@ All these conflicts are solved by UNICODE as it gives a character encoding which
      <td align="center"><button/><br/><b>throw</b></button></td>
      <td align="center"><button/><br/><b>try</b></button></td>
      <td align="center"><button/><br/><b>true</b></button></td>
-     <td align="center"><button/><br/><b>true</b></button></td>
+     <td align="center"><button/><br/><b>typeof</b></button></td>
     </tr>
      <tr>
-     <td align="center"><button/><br/><b>typeof</b></button></td>
      <td align="center"><button/><br/><b>var</b></button></td>
      <td align="center"><button/><br/><b>void</b></button></td>
      <td align="center"><button/><br/><b>while</b></button></td>
@@ -113,17 +109,14 @@ All these conflicts are solved by UNICODE as it gives a character encoding which
     </table>
   </center>
 
-
 </b></details>
 
 <details>
 <summary>What are shorthand operators, explain with a suitable example?</summary><br><b>
 
-
 </b></details>
 
 <details>
 <summary>What is “use Strict” in JavaScript?</summary><br><b>
-
 
 </b></details>

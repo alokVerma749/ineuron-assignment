@@ -179,10 +179,9 @@ All these conflicts are solved by UNICODE as it gives a character encoding which
      <td align="center"><button/><br/><b>throw</b></button></td>
      <td align="center"><button/><br/><b>try</b></button></td>
      <td align="center"><button/><br/><b>true</b></button></td>
-     <td align="center"><button/><br/><b>true</b></button></td>
+     <td align="center"><button/><br/><b>typeof</b></button></td>
     </tr>
      <tr>
-     <td align="center"><button/><br/><b>typeof</b></button></td>
      <td align="center"><button/><br/><b>var</b></button></td>
      <td align="center"><button/><br/><b>void</b></button></td>
      <td align="center"><button/><br/><b>while</b></button></td>
