@@ -114,6 +114,9 @@ All these conflicts are solved by UNICODE as it gives a character encoding which
 <details>
 <summary>What are shorthand operators, explain with a suitable example?</summary><br><b>
 
+> Shorthand operators are combination of assignment with arithmetic or bitwise operators, this helps to keep the code compact.
+> Some of the Shorthand operators and their applications are shown below:
+
 1. +=
 
 ```bash
@@ -138,7 +141,7 @@ All these conflicts are solved by UNICODE as it gives a character encoding which
  Value is: 5
 ```
 
-3. *=
+3. \*=
 
 ```bash
         let a = 10;
@@ -160,6 +163,18 @@ All these conflicts are solved by UNICODE as it gives a character encoding which
 
 ```sh
  Value is: 2
+```
+
+5. %=
+
+```bash
+        let a = 10;
+        a %= 5;
+        console.log("Value is: " + a);
+```
+
+```sh
+ Value is: 0
 ```
 
 </b></details>
