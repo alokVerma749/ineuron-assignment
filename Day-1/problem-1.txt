@@ -1,3 +1,6 @@
 problem-1: Explain the use of JavaScript ( or What you can do using a JavaScript)
 
-Solution: Javascript is programming language that can be used as a replacement of any other language. It can be used for fullstack web development. But originally JS is developed for enhancing the frontend of a webpage and now it enriched with a lot of functionalities(like OOPS, API DEVELOPMENT,ETC) so that it used for fullstack web-development.
+Solution: Javascript is programming language that can be used as a replacement of any other 
+language. It can be used for fullstack web development. But originally JS is developed for enhancing
+the frontend of a webpage and now it enriched with a lot of functionalities(like OOPS, API DEVELOPMENT,ETC)
+so that it used for fullstack web-development.
