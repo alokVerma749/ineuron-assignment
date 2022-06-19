@@ -2,7 +2,7 @@
 <h1 align="center">JavaScript Marathon Assignment</h1>
 <br>
 
-> ### Note: This Readme is mintained by me just to get a better way to present the assignment solution. Please have a look
+> ### Note: This Readme is maintained by me just to get a better way to present the assignment solution. Please have a look
 
 <br>
 
@@ -75,7 +75,7 @@ Most asynchronous JavaScript operations has two primary triggers i.e. `WebAPI's`
 
 JavaScript is a single-threaded language because it has only one call stack and one memory heap. JS executes the code sequentially and function calls are get stored in the call stack. These calls are poped out of the stack when its execution is done. Here it behave like a synchronous language.
 
-But this approach can be harmfull if a time consuming task is executing. In this case JavaScript engine halts the execution of the other sequential code. So to rescue JS manages these situations with the help of `WebAPI's` and `promises`. If it finds any function which is going to take time then the time consuming function will the handled asynchronously.
+But this approach can be harmfull if a time consuming task is executing. In this case JavaScript engine halts the execution of the other sequential code. So to rescue JS manages these situations with the help of `WebAPI's` and `promises`. If it finds any function which is going to take time then the time consuming function will be handled asynchronously.
 
 </b></details>
 
