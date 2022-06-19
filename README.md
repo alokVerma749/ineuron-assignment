@@ -2,7 +2,7 @@
 <h1 align="center">JavaScript Marathon Assignment</h1>
 <br>
 
-> ### Note: This Readme is mintained by me just to get a better way to present the assignment solution. Please have a look
+> ### Note: This Readme is maintained by me just to get a better way to present the assignment solution. Please have a look
 
 <br>
 
@@ -13,7 +13,7 @@
 
 Javascript is programming language that can be used as a replacement of any other language. It can be used for fullstack web development.
 But originally JS is developed for enhancing the frontend of a webpage and now it enriched with a lot of functionalities(like OOPS, API DEVELOPMENT,ETC)
-so that it used for `fullstack web-development`.
+so that it can be used for `fullstack web-development`.
 </b></details>
 
 <details>
@@ -113,7 +113,7 @@ Some lexical structure rules in JavaScript is :
 <details>
 <summary>What is Unicode?</summary><br><b><b>
 Unicode is a international standard for character encoding. It assignes a unique code to every charcters known as code point.
-This helps to identify charcter more easily and with less chances of error
+This helps to identify character more easily and with less chances of error
 
 Previously when UNICODE was not there, every language, machine or company uses there own encodings which results as conflicts between them.
 All these conflicts are solved by UNICODE as it gives a character encoding which is accepted and used by all as common entity.
@@ -195,6 +195,69 @@ All these conflicts are solved by UNICODE as it gives a character encoding which
 
 <details>
 <summary>What are shorthand operators, explain with a suitable example?</summary><br><b>
+
+  > Shorthand operators are combination of assignment with arithmetic or bitwise operators, this helps to keep the code compact.
+> Some of the Shorthand operators and their applications are shown below:
+
+1. +=
+
+```bash
+        let a = 10;
+        a += 5;
+        console.log("Value is: " + a);
+```
+
+```sh
+ Value is: 15
+```
+
+2. -=
+
+```bash
+        let a = 10;
+        a -= 5;
+        console.log("Value is: " + a);
+```
+
+```sh
+ Value is: 5
+```
+
+3. \*=
+
+```bash
+        let a = 10;
+        a *= 5;
+        console.log("Value is: " + a);
+```
+
+```sh
+ Value is: 50
+```
+
+4. /=
+
+```bash
+        let a = 10;
+        a /= 5;
+        console.log("Value is: " + a);
+```
+
+```sh
+ Value is: 2
+```
+
+5. %=
+
+```bash
+        let a = 10;
+        a %= 5;
+        console.log("Value is: " + a);
+```
+
+```sh
+ Value is: 0
+```
 
 </b></details>
 
