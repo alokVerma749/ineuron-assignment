@@ -12,7 +12,9 @@ In JS for every variable, function and object there exists a scope linked with i
     let b = "Can be reachable only inside this scope"
 }
 
-NOTE: If instead of using "let" we use "var" keyword for declaring the varibles.Then the varible declared using "var" keyword can be accessed everywhere, this is because the scope of the variables declared using "var" have global scope.While "let" allows you to declare variables that are limited to the scope of a block statement.
+NOTE: If instead of using "let" we use "var" keyword for declaring the varibles.Then the varible declared using "var" keyword
+can be accessed everywhere, this is because the scope of the variables declared using "var" have global scope.While "let" allows
+you to declare variables that are limited to the scope of a block statement.
 
 
 
