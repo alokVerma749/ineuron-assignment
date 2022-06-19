@@ -183,4 +183,10 @@ All these conflicts are solved by UNICODE as it gives a character encoding which
 <details>
 <summary>What is “use Strict” in JavaScript?</summary><br><b>
 
+Strict Mode is new feature in JavaScript introduced in ES5, which allows to 
+execute a function or script in Strict Mode.
+
+This Mode can be applied by just adding `"use strict"` in the beginning of function
+ or a script.
+
 </b></details>
