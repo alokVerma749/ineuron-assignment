@@ -1,6 +1,9 @@
 Problem-1: What is lexical structure?
 
-Solution: lexical structure is the the bascic syntax for writing any programming language. It is also considered as the lowest level syntactical structure which needs to be follwed.
+Solution: lexical structure is the the bascic syntax for writing any programming language. It is also considered as the lowest level syntactical
+structure which needs to be follwed.
+
+
 Some lexical structure rules in JavaScript is :
 
 1.  JS is written in UNICODE(it is an iternational standard for character encoding).
