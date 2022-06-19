@@ -30,6 +30,7 @@ Some lexical structure rules in JavaScript is :
 
 <details>
 <summary>What is Unicode?</summary><br><b><b>
+    
 Unicode is a international standard for character encoding. It assignes a unique code to every charcters known as `code point`.
 This helps to identify character more easily and with less chances of error
 
