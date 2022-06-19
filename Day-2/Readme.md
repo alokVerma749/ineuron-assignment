@@ -2,7 +2,7 @@
 <h1 align="center">JavaScript Marathon Assignment</h1>
 <br>
 
-> ### Note: This Readme is mintained by me just to get a better way to present the assignment solution. Please have a look
+> ### Note: This Readme is maintained by me just to get a better way to present the assignment solution. Please have a look
 
 <br>
 
@@ -30,8 +30,8 @@ Some lexical structure rules in JavaScript is :
 
 <details>
 <summary>What is Unicode?</summary><br><b><b>
-Unicode is a international standard for character encoding. It assignes a unique code to every charcters known as code point.
-This helps to identify charcter more easily and with less chances of error
+Unicode is a international standard for character encoding. It assignes a unique code to every charcters known as `code point`.
+This helps to identify character more easily and with less chances of error
 
 Previously when UNICODE was not there, every language, machine or company uses there own encodings which results as conflicts between them.
 All these conflicts are solved by UNICODE as it gives a character encoding which is accepted and used by all as common entity.
