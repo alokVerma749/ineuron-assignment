@@ -1,7 +1,11 @@
 Problem-6: JavaScript is Single-threaded or Multi-threaded.
 
-Solution: JavaScript is a single-threaded language because it has only one call stack and one memory heap. JS executes the code sequentially and function calls are get stored in the call stack. These calls are oped out of the stack when its execution is done. Here it behave like a synchronous language.
+Solution: JavaScript is a single-threaded language because it has only one call stack and one memory heap. 
+JS executes the code sequentially and function calls are get stored in the call stack. These calls are oped out
+of the stack when its execution is done. Here it behave like a synchronous language.
 
-But this approach can be harmfull if a time consuming task is executing in this case JavaScript engine halts the execution of the other sequential code.
+But this approach can be harmfull if a time consuming task is executing in this case JavaScript engine halts the
+execution of the other sequential code.
 
-Although, JS manages these situations with the help of web API's and promises. If it finds any function which is going to take time then the time consuming function will the handled through API's asynchronously.
+Although, JS manages these situations with the help of web API's and promises. If it finds any function which is going
+to take time then the time consuming function will be handled through API's asynchronously.
