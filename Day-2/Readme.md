@@ -192,42 +192,47 @@ or a script.
 This mode can be used to write safe code using below properties:
 
 1.  Using "Strict Mode" prohibits use of syntaxes which later going to be introduced in EcmaScript.
-    e.g.
+    
+    ### e.g:
 
     > It doesn't allows to use 'arguments', 'eval', 'with' keywords to use as an identifier.
 
     ```bash
-    "use strict"
+                "use strict"
 
                 let arguments = 90;
                 console.log(arguments);
+                //Will throw an error
 
     ```
 
 2.  "Strict Mode" eliminates some JS silent errors and throws error.
-    e.g.
+    
+    ### e.g:
 
     > Instead of creating a new global variable it throws error if an undeclared variable/mistyped variable
     > is assigned a value.
 
     ```bash
                 "use strict"
+    
                 x= 12;
                 //Will throw an error
     ```
 
 3.  It prohibits or throws error when unsafe action is taken.
-    e.g: >This mode doesn't allow delete objects or variables.
-
-         ```bash
-
-                "use strict"
+    
+    ### e.g: 
+    
+    >This mode doesn't allow delete objects or variables.
+    
+    ```bash
+                    "use strict"
+    
                 delete Object.prototype;
-
                 //Will throw an error
-
+    
     ```
 
-    ```
-
+    
 </b></details>
