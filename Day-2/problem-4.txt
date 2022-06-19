@@ -55,6 +55,3 @@ e.g:
         console.log("Value is: " + a);
 
 > Value is: 0
-
-
-</b></details>
