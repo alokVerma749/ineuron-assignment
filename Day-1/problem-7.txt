@@ -1,5 +1,6 @@
 Problem-7: Explain DOM in your own word.
 
-Solution: DOM(Document Object Model) is not a programming language. It is a API used by JS to convert the web document int nodes and objects so that it becomes easy to interact with the web page using a programming language.
+Solution: DOM(Document Object Model) is not a programming language. It is a API used by JS to convert
+the web document int nodes and objects so that it becomes easy to interact with the web page using a programming language.
 
 In simple words DOM provides object-oriented representation of the web pageand allows web page to be manipulated.
