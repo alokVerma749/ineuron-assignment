@@ -1,0 +1,3 @@
+Problem-1: Explain with example length and substring methods in javascript.
+
+Solution:

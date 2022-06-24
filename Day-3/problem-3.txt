@@ -1,0 +1,3 @@
+Problem-1: What are padStart and padEnd in javascript, explain with an example.
+
+Solution:

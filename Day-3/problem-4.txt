@@ -1,0 +1,3 @@
+Problem-1: Define Global Object in javascript along with the global scope.
+
+Solution:
