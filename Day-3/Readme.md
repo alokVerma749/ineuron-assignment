@@ -128,6 +128,21 @@
 <details>
 <summary>Define Global Object in javascript along with the global scope.</summary><br><b><b>
 
+## Global Object:- 
+
+Global object are the objects which provides functions and variables that can be
+used anywhere in the environment. In browsers the global object is known as 
+`window` while in `Node` environment it is 'global'.<br><br>
+This global object are came inbuilt in the languages/environments.<br><br>
+Any variables or functions declared using `var` become a property of the `Global object`.<br>
+`gobalThis` is the standard name for the global object and is supported by almost every environment.
+
+ ## Global Scope:-
+
+   - Scope which is accessible from everywhere is `global scope`.
+   - variables which are declared globally has global scope.
+   - variables declared using `var` has global scope.
+    
 </b></details>
 
 <details>
