@@ -1,3 +1,47 @@
 Problem-1: What are padStart and padEnd in javascript, explain with an example.
 
-Solution:
+Solution:    
+
+1. padStart():-
+    
+ `padStart()` pads/adds the given string from start to other string until it reaches to its given length.
+
+## Syntax
+    
+    padStart(targetLength)
+    padStart(targetLength, padString)
+
+    
+E.g:
+    
+'Alok'.padStart(10);         // "      Alok"
+'Alok'.padStart(10, "foo");  // "foofooAlok"
+'Alok'.padStart(6,"123465"); // "12Alok"
+'Alok'.padStart(8, "0");     // "0000Alok"
+'Alok'.padStart(1);          // "Alok"
+    //NOTE: if given length is less than the given string then the original string is returned.
+
+
+`````````````````````````````````````````````````````````````````````````````    
+    
+2. padEnd():-
+    
+ `padEnd()` pads/adds the given string from end to other string until it reaches to its given length.
+   
+
+## Syntax
+    
+    padStart(targetLength)
+    padStart(targetLength, padString)
+
+    
+E.g:
+    
+'Alok'.padEnd(10);         // "Alok      "
+'Alok'.padEnd(10, "foo");  // "Alokfoofoo"
+'Alok'.padEnd(6,"123465"); // "Alok12"
+'Alok'.padEnd(8, "0");     // "Alok0000"
+'Alok'.padEnd(1);          // "Alok"
+     //NOTE: if given length is less than the given string then the original string is returned.
+
+``````````````````````````````````````````````````````````````````````````````````````   

@@ -1,3 +1,21 @@
 Problem-1: List all the Escape Sequences characters in javascript.
 
-Solution: 
+Solution:  Escape sequence characters are used to encode special characters in a strings. 
+    
+ Escape sequences characters are: 
+
+    - \' :- Used to denote single quotes in the string.
+    - \" :- Used to denote double quotes in the string.
+    - \n :- Used to escape to new line.
+    - \t :- Use to denote a TAB space.
+    - \v :- Vertical TAB
+    - \r :- carriage return
+    - \b :- backspace
+    - \f :- form feed
+
+Eg:-
+    let myStr = 'Hello my name is Alok Verma.\n And I am learnig \'web development/' by /"Histeh Sir/".\n';
+    console.log(myStrLength);
+`````````````````````````````````````````````````````````````````````````````````````````````````````````````
+     OutPut: Hello my name is Alok Verma.
+     And I am learnig "web development/" by 'Histesh Sir' 

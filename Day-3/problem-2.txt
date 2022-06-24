@@ -1,3 +1,36 @@
 Problem-1: Explain with example length and substring methods in javascript.
 
-Solution:
+Solution: 
+
+ 1. length: 
+    
+`length` is a property of the String.prototype object which reflects the `length` of the string.
+    
+E.g: 
+    let myStr = 'Hello my name is Alok Verma and I am learnig web development';
+    let myStrLength = myStr.length;
+    console.log(myStrLength);
+````````````````````````````````````````````````````````
+    
+     Output: 60
+    
+ 2.substring():
+    
+ `substring()` method returns the string between start and end indexes. 
+  NOTE: first index(indexStart) is `inclusive` while last index(indexLast) is `exclusivee`.
+
+E.g:
+    const str = 'Hitesh';
+
+    console.log(str.substring(1, 3));
+    //str.cubstring(indexStart, indexEnd)
+
+
+    console.log(str.substring(2));
+    //str.cubstring(indexStart)
+
+``````````````````````````````````````````````````````` 
+    
+    OutPut: it
+            tesh
+```````````````````````````````````````````````````````
